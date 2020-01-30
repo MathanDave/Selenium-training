@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: Training_h2a.06.17
+Build-Jdk: 1.8.0_231
+Created-By: Maven Integration for Eclipse
+
